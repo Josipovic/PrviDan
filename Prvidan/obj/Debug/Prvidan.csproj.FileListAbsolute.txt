@@ -1,0 +1,7 @@
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\Prvidan1\Prvidan\obj\Debug\Prvidan.csprojAssemblyReference.cache
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\Prvidan1\Prvidan\obj\Debug\Prvidan.csproj.CoreCompileInputs.cache
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\Prvidan1\Prvidan\bin\Debug\Prvidan.exe.config
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\Prvidan1\Prvidan\bin\Debug\Prvidan.exe
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\Prvidan1\Prvidan\bin\Debug\Prvidan.pdb
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\Prvidan1\Prvidan\obj\Debug\Prvidan.exe
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\Prvidan1\Prvidan\obj\Debug\Prvidan.pdb
